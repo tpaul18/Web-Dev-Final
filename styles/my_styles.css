@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+.white_text{
+    color:white;
+    text-decoration:underline dotted;
+}
+
+a:hover{
+    color:blue;
+    font-size: 32px;
+    text-decoration:wavy;
+}
+
+.img_container{
+    width:50%;
+    }
+     
+    .header_div {
+        width:500vw;
+        height:70px;
+        margin-left: auto;
+        Margin-right:auto;
+        background-color:rgb(110, 203, 246);
+    }
+
+.body_div{
+    width:75vw;
+    height:auto;
+    text-align: left;
+    border:3px solid rgb(46, 161, 67);
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+.footer_div{
+    background-color:rgb(110, 203, 246) ;
+    text-align: center;
+    width: 100vw;
+    height: 70px;
+    border-top: 3px solid black;
+    
+}
+
+.post-preview{
+    color:rgb(99, 99, 132);
+    text-align: center;
+    font-style:italic;
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.post_meta{
+    color:rgb(99, 99, 120);
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.post-title{color:rgb(36, 36, 53);
+    font-size: 46px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: rgb(212, 254, 255);
+}
